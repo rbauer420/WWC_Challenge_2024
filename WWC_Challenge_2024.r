@@ -6,6 +6,7 @@
 # Export feature to export a report based on the user inputs
 
 # Analysis tasks: 
+# Delete varables that are not needed for the analysis 
 # Create graphs showing distribution by mobile
 # Create graphs showing distribution by web
 # Create graphs showing distribution by gender
